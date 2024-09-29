@@ -18,3 +18,6 @@ This project is a simple online shopping cart application built using HTML, CSS,
 ## APIs Used
 
 - [Fake Store API](https://fakestoreapi.com) for product information.
+
+ ##
+ infinity javascript final project 🎉!
